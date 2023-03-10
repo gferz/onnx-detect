@@ -3,7 +3,7 @@
 **Deteksi Dari Gambar** 
 
 ```
-python3 detect.py --weight path_ke_onnx --img path_to_image --classes path_ke_gambar
+python3 detect.py --weight path_ke_onnx --img path_to_image --classes path_ke_class
 ```
 
 **Deteksi Melalui Webcam**
